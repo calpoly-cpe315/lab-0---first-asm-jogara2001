@@ -17,3 +17,12 @@ professional, and are easy to read. Use the
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
 
+My name is Joseph O'Gara but I go by Joe
+
+Lab is complete
+
+compilation and execution instructions::
+gcc -o eggnog eggnog.s
+./eggnog
+
+
